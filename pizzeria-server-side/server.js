@@ -5,7 +5,7 @@ const cors = require("cors");
 
 //Declaration and Initialization of Express App and Mongoose URI
 const app = express();
-const uri = "mongodb://127.0.0.1/PIZZERIA";
+const uri = "YOUR-MONGODB-URI";
 
 //Using the middlewares required for the project
 app.use(express.json());
@@ -108,11 +108,11 @@ app.post("/ordershub", async (req, res) => {
   }
 });
 
-//Listening on PORT 8383
-app.listen(8383, (err) => {
+//Listening on PORT ----
+app.listen(YOUR PORT, (err) => {
   if (err) {
     console.log("Error in PORT connection!!", err);
   } else {
-    console.log("SERVER LISTENING TO PORT 8383");
+    console.log("SERVER LISTENING TO PORT ----");
   }
 });
