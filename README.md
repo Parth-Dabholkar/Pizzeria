@@ -27,7 +27,8 @@ Pizzeria is a MERN-stack based web application where users can customize their p
 
 ## 🖼️ Screenshots
 - Homepage  
-  ![Homepage](Screenshots/Capture1.jpg)  
+<img width="1582" height="792" alt="image" src="https://github.com/user-attachments/assets/58322459-7279-44d1-b7d7-cfd70b0659fe" />
+
 
 - Menu Page  
   ![Menu Page](Screenshots/Capture2.jpg)  
