@@ -47,6 +47,5 @@ Pizzeria is a MERN-stack based web application where users can customize their p
 ## 👨‍💻 Author
 
 **Parth Dabholkar**  
-Upcoming Associate Software Engineer @Accenture's Advanced Technology Centers in India
 
 ---
