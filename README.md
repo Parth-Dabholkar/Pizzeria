@@ -30,20 +30,17 @@ Pizzeria is a MERN-stack based web application where users can customize their p
 (Add your image links below 👇)
 
 - Homepage  
-  ![Homepage](<img width="3162" height="1574" alt="image" src="https://github.com/user-attachments/assets/10d2a4f4-092e-4466-9f83-d0592caeacb5" />
+  ![Homepage](
 )  
 
 - Menu Page  
-  ![Menu Page](<img width="3132" height="1556" alt="image" src="https://github.com/user-attachments/assets/60bd02e3-50bf-48d2-af65-517c8b9d98c6" />
-)  
+  ![Menu Page](Screenshots/Capture1)  
 
 - Cart Page  
-  ![Cart](<img width="3200" height="1316" alt="image" src="https://github.com/user-attachments/assets/739ba4b9-65a8-4a4e-af8c-ac95f8423605" />
-)
+  ![Cart](Screenshots/Capture5)
 
 - Build Your Own Pizza  
-  ![Build Your Own Pizza](<img width="1326" height="1312" alt="image" src="https://github.com/user-attachments/assets/e47d16b0-2de9-4ad7-ab0d-7edae3ce1543" />
-)
+  ![Build Your Own Pizza](Screenshots/Capture4)
 
 ---
 
