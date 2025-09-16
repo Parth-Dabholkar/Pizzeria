@@ -26,21 +26,17 @@ Pizzeria is a MERN-stack based web application where users can customize their p
 ---
 
 ## 🖼️ Screenshots
-
-(Add your image links below 👇)
-
 - Homepage  
-  ![Homepage](
-)  
+  ![Homepage](Screenshots/Capture1.jpg)  
 
 - Menu Page  
-  ![Menu Page](Screenshots/Capture1)  
+  ![Menu Page](Screenshots/Capture2.jpg)  
 
 - Cart Page  
-  ![Cart](Screenshots/Capture5)
+  ![Cart](Screenshots/Capture5.jpg)
 
 - Build Your Own Pizza  
-  ![Build Your Own Pizza](Screenshots/Capture4)
+  ![Build Your Own Pizza](Screenshots/Capture4.jpg)
 
 ---
 
